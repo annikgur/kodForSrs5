@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PoemToLog</string>
+
+    <string name="puskin01">1 Ты видел деву на скале</string>
+    <string name="puskin02">2 В одежде белой над волнами</string>
+    <string name="puskin03">3 Когда, бушуя в бурной мгле,</string>
+    <string name="puskin04">4 Играло море с берегами,</string>
+    <string name="puskin05">5 Когда луч молний озарял</string>
+    <string name="puskin06">6 Ее всечасно блеском алым</string>
+    <string name="puskin07">7 И ветер бился и летал</string>
+    <string name="puskin08">8 С ее летучим покрывалом?</string>
+    <string name="puskin09">9 Прекрасно море в бурной мгле</string>
+    <string name="puskin10">10 И небо в блесках без лазури;</string>
+    <string name="puskin11">11 Но верь мне: дева на скале</string>
+    <string name="puskin12">12 Прекрасней волн, небес и бури.</string>
+
+</resources>
